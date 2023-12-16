@@ -1,0 +1,7 @@
+0 On ch=1 n=60 v=100
+1920 Off ch=1 n=60 v=64
+0 On ch=2 n=61 v=100
+1920 Off ch=2 n=61 v=64
+1920 Meta TrkEnd
+0 On ch=16 n=62 v=100
+1920 Off ch=16 n=62 v=64

@@ -1,0 +1,15 @@
+
+1920 On ch=1 n=60 v=100
+3840 Off ch=1 n=60 v=80
+3840 On ch=1 n=62 v=100
+5760 Off ch=1 n=62 v=50
+5760 On ch=1 n=64 v=100
+7680 Off ch=1 n=64 v=14
+7680 On ch=1 n=65 v=100
+9600 Off ch=1 n=65 v=16
+9600 On ch=1 n=67 v=100
+11520 Off ch=1 n=67 v=28
+11520 On ch=1 n=69 v=100
+13440 Off ch=1 n=69 v=38
+13440 On ch=1 n=71 v=100
+15360 Off ch=1 n=71 v=127

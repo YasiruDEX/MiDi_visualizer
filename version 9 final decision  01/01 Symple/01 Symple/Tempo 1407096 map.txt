@@ -1,0 +1,7 @@
+
+Tempo 1407096
+
+      Tempo                     Seconds for keyframe
+                 Y >>   [Cube 01] [Cube 02] [Cube 03] [Cube 04] [Cube 05] [Cube 06] [Cube 07] [Cube 08]
+
+Tempo 1407096            00.000    02.814    05.628     08.442   11.256    14.070    16.885    19.699

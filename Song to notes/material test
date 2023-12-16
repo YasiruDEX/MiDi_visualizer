@@ -1,0 +1,16 @@
+import bpy
+
+#material making
+for i in range(17):
+    mat_index = i + 1
+    if mat_index < 10:
+        mat_name = f"Midi Ch 0{mat_index} material"
+    else:
+        mat_name = f"Midi Ch {mat_index} material"
+        
+    active_obj = bpy.context.active_object
+    mat = bpy.data.materials.new(name = mat_name)
+    active_obj.data.materials.append(mat)
+    bpy.context.object.active_material.diffuse_color = (0.616283, 0.8, 0.325494, 1)
+
+
